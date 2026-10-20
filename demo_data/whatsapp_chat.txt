@@ -1,0 +1,11 @@
+[17/10/26, 19:45:12] Aman Verma: Hey Rahul, are we meeting tomorrow at Civil Lines?
+[17/10/26, 19:46:05] Rahul Sharma: Yes Aman, around 5 PM after office.
+[17/10/26, 19:48:30] +91-98765-43210: Dear SBI Customer Rahul Sharma, your YONO NetBanking & UPI account KYC has expired. As per RBI directive #KYC-2026-SBI, your account will be suspended within 24 hours. Update KYC online now: https://sbi-kyc-update-portal.in/verify
+[17/10/26, 19:49:15] Rahul Sharma: Is this official? Can I visit the Mall Road branch tomorrow morning?
+[17/10/26, 19:49:50] +91-98765-43210: Sir, automated security hold triggers at midnight. Your debit card and UPI linked to mobile +91-98765-43210 will be deactivated. Please complete instant biometric/Aadhaar verification at https://sbi-kyc-update-portal.in/verify to avoid penalty of Rs 2500.
+[17/10/26, 19:54:10] Rahul Sharma: Okay sir, opening link now. It asked for NetBanking username and OTP.
+[17/10/26, 19:55:02] +91-98765-43210: Enter the 6-digit verification code received on SMS to approve server token sync. Do not share code with anyone other than this portal.
+[17/10/26, 19:56:45] Rahul Sharma: Done, filled the form and submitted the code on portal.
+[17/10/26, 19:57:12] +91-98765-43210: KYC verification is under automated audit. Do not log into YONO app until morning 8 AM for sync to complete.
+[18/10/26, 06:45:10] Rahul Sharma: Hello?? I got SMS alerts that Rs 49000 and Rs 31000 debited at 2 AM to Ramesh Traders! Pick up my call!
+[18/10/26, 06:45:30] +91-98765-43210: This number is no longer accepting messages. (User blocked or account deleted)
